@@ -3,6 +3,7 @@
  * Descripcion de la base de datos como un arreglo
  *
  * @author JJ
+ * añadidoa linea
  */
 return array(
     "driver"    =>"mysql",
