@@ -36,7 +36,7 @@ CREATE TABLE `ajuste_stock` (
 
 -- --------------------------------------------------------
 
---
+-- este le voya subir al master lu
 -- Estructura de tabla para la tabla `almacen`
 --
 
